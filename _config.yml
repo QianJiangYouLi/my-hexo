@@ -1,15 +1,15 @@
 # Site
 title: 千江游鲤
-subtitle: ''
-description: ''
-keywords:
+subtitle: '记录分享成长'
+description: '学习、工作、生活记录'
+keywords: 笔记 记录 分享 博客
 author: 千江游鲤
 language: zh-CN
 timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://wxyyjb99.com
+url: http://www.wxyyjb99.com
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
