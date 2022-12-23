@@ -98,4 +98,6 @@ theme: fluid
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: ''
+  type: git
+  repo: git@101.43.73.165:/var/repo/hexo.git
+  branch: master
